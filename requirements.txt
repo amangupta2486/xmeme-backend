@@ -1,4 +1,4 @@
-python3.8
+python >= 3.8
 tortoise-orm
 sqlite3
 fastapi
