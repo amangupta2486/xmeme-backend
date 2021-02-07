@@ -1,9 +1,8 @@
-tortoise-orm
-sqlite3
-fastapi
-pydantic
-tortoise-orm[aiomysql]
-uvicorn==0.12.3
+requests==2.25.1
+pydantic==1.7.3
+fastapi==0.63.0
+tortoise==0.1.1
+uvicorn==0.13.3
 aiofiles==0.6.0
 python-multipart==0.0.5
 jinja2==2.11.2
