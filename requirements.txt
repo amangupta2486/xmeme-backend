@@ -2,3 +2,4 @@ tortoise-orm
 sqlite3
 fastapi
 pydantic
+tortoise-orm[aiomysql]
