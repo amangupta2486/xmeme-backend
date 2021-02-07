@@ -1,5 +1,5 @@
 tortoise-orm
-python3
+python-3.8.0
 sqlite3
 fastapi
 pydantic
